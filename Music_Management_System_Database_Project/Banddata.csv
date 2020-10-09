@@ -1,0 +1,1001 @@
+bandID,bandName,bandDescription,bandCover
+1,Iron Maiden,"United Kingdom-New wave of british heavy,Heavy",https://i.scdn.co/image/fbec42025b461d54853ba6431f4eaaaa69e5a9e1
+2,Opeth,"Sweden-Extreme progressive,Progressive rock,Progressive",https://i.scdn.co/image/fbec42025b461d54853ba6431f4eaaaa69e5a9e1
+3,Metallica,"USA-Heavy,Bay area thrash",https://i.scdn.co/image/fbec42025b461d54853ba6431f4eaaaa69e5a9e1
+4,Megadeth,"USA-Thrash,Heavy,Hard rock",https://i.scdn.co/image/fbec42025b461d54853ba6431f4eaaaa69e5a9e1
+5,Amon Amarth,Sweden-Melodic death,https://i.scdn.co/image/fbec42025b461d54853ba6431f4eaaaa69e5a9e1
+6,Slayer,USA-Thrash,https://i.scdn.co/image/fbec42025b461d54853ba6431f4eaaaa69e5a9e1
+7,Death,"USA-Progressive death,Death,Progressive thrash",https://i.scdn.co/image/fbec42025b461d54853ba6431f4eaaaa69e5a9e1
+8,Dream Theater,USA-Progressive,https://i.scdn.co/image/fbec42025b461d54853ba6431f4eaaaa69e5a9e1
+9,Black Sabbath,"United Kingdom-Doom,Heavy,Hard rock",https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+10,Nightwish,"Finland-Symphonic power,Gothic,Symphonic",https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+11,Children Of Bodom,Finland-Extreme power,https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+12,Judas Priest,"United Kingdom-Heavy,Hard rock",https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+13,Blind Guardian,"Germany-Power,Speed",https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+14,In Flames,"Sweden-Gothenburg,Alternative",https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+15,Pantera,"USA-Heavy,Groove thrash,Groove metal",https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+16,Dark Tranquillity,Sweden-Gothenburg,https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+17,Agalloch,"USA-Atmospheric black,Neofolk",https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+18,Ensiferum,Finland-Extreme folk,https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+19,Arch Enemy,Sweden-Gothenburg,https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+20,Katatonia,"Sweden-Blackened doom,Death doom,Alternative rock,Gothic doom",https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+21,Behemoth,"Poland-Death,Black,Blackened death",https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+22,Dimmu Borgir,"Norway-Symphonic black,Black",https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+23,Kreator,Germany-Teutonic thrash,https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+24,Wintersun,Finland-Extreme power,https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+25,Insomnium,Finland-Melodic death,https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+26,Amorphis,"Finland-Death,Melodic death,Folk,Progressive",https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+27,Kamelot,USA-Symphonic power,https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+28,Tool,"USA-Progressive,Alternative",https://i.scdn.co/image/40bb47fe5c869ed7f7f83bda26739851dfb6a6e4
+29,Helloween,"Germany-Speed,Power",https://i.scdn.co/image/7c0e2a9d678916b8fdc64a450e441e8d3466ffd6
+30,Testament,USA-Bay area thrash,https://i.scdn.co/image/7c0e2a9d678916b8fdc64a450e441e8d3466ffd6
+31,Epica,The Netherlands-Symphonic,https://i.scdn.co/image/7c0e2a9d678916b8fdc64a450e441e8d3466ffd6
+32,Immortal,"Norway-Death,Black",https://i.scdn.co/image/7c0e2a9d678916b8fdc64a450e441e8d3466ffd6
+33,Lamb Of God,USA-Groove thrash,https://i.scdn.co/image/7c0e2a9d678916b8fdc64a450e441e8d3466ffd6
+34,Iced Earth,"USA-Heavy,Us power",https://i.scdn.co/image/7c0e2a9d678916b8fdc64a450e441e8d3466ffd6
+35,Anathema,"United Kingdom-Death doom,Atmospheric rock,Doom",https://i.scdn.co/image/7c0e2a9d678916b8fdc64a450e441e8d3466ffd6
+36,Symphony X,"USA-Progressive,Symphonic power",https://i.scdn.co/image/7c0e2a9d678916b8fdc64a450e441e8d3466ffd6
+37,Eluveitie,"Switzerland-Celtic folk,Gothenburg",https://i.scdn.co/image/7c0e2a9d678916b8fdc64a450e441e8d3466ffd6
+38,Gojira,France-Progressive death,https://i.scdn.co/image/7c0e2a9d678916b8fdc64a450e441e8d3466ffd6
+39,Rammstein,Germany-Industrial,https://i.scdn.co/image/ae7f9b496df52ed2dd3b371937fde1b53f8dc79b
+40,Sonata Arctica,Finland-Power,https://i.scdn.co/image/ae7f9b496df52ed2dd3b371937fde1b53f8dc79b
+41,Mastodon,"USA-Progressive stoner,Progressive sludge",https://i.scdn.co/image/ae7f9b496df52ed2dd3b371937fde1b53f8dc79b
+42,Nile,"USA-Brutal death,Technical death",https://i.scdn.co/image/ae7f9b496df52ed2dd3b371937fde1b53f8dc79b
+43,Sepultura,"Brazil-Alternative,Death,Groove thrash,Thrash",https://i.scdn.co/image/ae7f9b496df52ed2dd3b371937fde1b53f8dc79b
+44,Moonspell,"Portugal-Folk,Gothic black,Gothic,Symphonic black,Black",https://i.scdn.co/image/ae7f9b496df52ed2dd3b371937fde1b53f8dc79b
+45,Therion,"Sweden-Death,Symphonic",https://i.scdn.co/image/ae7f9b496df52ed2dd3b371937fde1b53f8dc79b
+46,Cannibal Corpse,USA-Death,https://i.scdn.co/image/ae7f9b496df52ed2dd3b371937fde1b53f8dc79b
+47,Enslaved,"Norway-Viking black,Progressive black",https://i.scdn.co/image/ae7f9b496df52ed2dd3b371937fde1b53f8dc79b
+48,Emperor,"Norway-Black,Symphonic black",https://i.scdn.co/image/ae7f9b496df52ed2dd3b371937fde1b53f8dc79b
+49,Porcupine Tree,"United Kingdom-Progressive rock,Progressive",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+50,Cradle Of Filth,"United Kingdom-Extreme gothic,Symphonic black,Death,Symphonic",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+51,Iron Maiden,"United Kingdom-New wave of british heavy,Heavy",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+52,Opeth,"Sweden-Extreme progressive,Progressive rock,Progressive",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+53,Metallica,"USA-Heavy,Bay area thrash",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+54,Megadeth,"USA-Thrash,Heavy,Hard rock",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+55,Amon Amarth,Sweden-Melodic death,https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+56,Slayer,USA-Thrash,https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+57,Death,"USA-Progressive death,Death,Progressive thrash",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+58,Dream Theater,USA-Progressive,https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+59,Black Sabbath,"United Kingdom-Doom,Heavy,Hard rock",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+60,Nightwish,"Finland-Symphonic power,Gothic,Symphonic",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+61,Children Of Bodom,Finland-Extreme power,https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+62,Judas Priest,"United Kingdom-Heavy,Hard rock",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+63,Blind Guardian,"Germany-Power,Speed",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+64,In Flames,"Sweden-Gothenburg,Alternative",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+65,Pantera,"USA-Heavy,Groove thrash,Groove metal",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+66,Dark Tranquillity,Sweden-Gothenburg,https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+67,Agalloch,"USA-Atmospheric black,Neofolk",https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+68,Ensiferum,Finland-Extreme folk,https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f
+69,Arch Enemy,Sweden-Gothenburg,https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+70,Katatonia,"Sweden-Blackened doom,Death doom,Alternative rock,Gothic doom",https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+71,Behemoth,"Poland-Death,Black,Blackened death",https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+72,Dimmu Borgir,"Norway-Symphonic black,Black",https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+73,Kreator,Germany-Teutonic thrash,https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+74,Wintersun,Finland-Extreme power,https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+75,Insomnium,Finland-Melodic death,https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+76,Amorphis,"Finland-Death,Melodic death,Folk,Progressive",https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+77,Kamelot,USA-Symphonic power,https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+78,Tool,"USA-Progressive,Alternative",https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+79,Helloween,"Germany-Speed,Power",https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+80,Testament,USA-Bay area thrash,https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+81,Epica,The Netherlands-Symphonic,https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+82,Immortal,"Norway-Death,Black",https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+83,Lamb Of God,USA-Groove thrash,https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+84,Iced Earth,"USA-Heavy,Us power",https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+85,Anathema,"United Kingdom-Death doom,Atmospheric rock,Doom",https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+86,Symphony X,"USA-Progressive,Symphonic power",https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+87,Eluveitie,"Switzerland-Celtic folk,Gothenburg",https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+88,Gojira,France-Progressive death,https://i.scdn.co/image/c1b4e971c42c8cecc91037fa1df994f7050a45fc
+89,Rammstein,Germany-Industrial,https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+90,Sonata Arctica,Finland-Power,https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+91,Mastodon,"USA-Progressive stoner,Progressive sludge",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+92,Nile,"USA-Brutal death,Technical death",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+93,Sepultura,"Brazil-Alternative,Death,Groove thrash,Thrash",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+94,Moonspell,"Portugal-Folk,Gothic black,Gothic,Symphonic black,Black",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+95,Therion,"Sweden-Death,Symphonic",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+96,Cannibal Corpse,USA-Death,https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+97,Enslaved,"Norway-Viking black,Progressive black",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+98,Emperor,"Norway-Black,Symphonic black",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+99,Porcupine Tree,"United Kingdom-Progressive rock,Progressive",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+100,Cradle Of Filth,"United Kingdom-Extreme gothic,Symphonic black,Death,Symphonic",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+101,Be'lakor,Australia-Melodic death,https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+102,My Dying Bride,"United Kingdom-Death doom,Gothic doom",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+103,Led Zeppelin,"United Kingdom-Progressive hard rock,Heavy,Blues rock",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+104,Nevermore,"USA-Heavy,Progressive,Thrash",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+105,Stratovarius,"Finland-Power,Heavy",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+106,Paradise Lost,"United Kingdom-Gothic,Electro gothic,Death doom",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+107,Dio,USA-Heavy,https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+108,Kalmah,"Finland-Extreme power,Melodic death",https://i.scdn.co/image/e2d8284b3b074376d56b8d475ec5ddadaddc0bb1
+109,Carcass,"United Kingdom-Grindcore,Melodic death",https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b
+110,Burzum,"Norway-Black,Dark,Ambient,Ambient",https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b
+111,Anthrax,"USA-Thrash,Heavy",https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b
+112,Morbid Angel,USA-Death,https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b
+113,Meshuggah,"Sweden-Technical thrash,Math,Progressive",https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b
+114,Finntroll,Finland-Extreme folk,https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b
+115,Septicflesh,"Greece-Atmospheric death,Symphonic death",https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b
+116,Moonsorrow,Finland-Viking folk,https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b
+117,Machine Head,"USA-Groove thrash,Progressive thrash",https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b
+118,System Of A Down,USA-Alternative,https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b
+119,Within Temptation,"The Netherlands-Symphonic,Gothic",https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b
+120,Bathory,"Sweden-Viking black,First wave of black",https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b
+121,Exodus,USA-Bay area thrash,https://i.scdn.co/image/a2e132ff50489a2ee4ecafaac56517a5b371e8b0
+122,Draconian,Sweden-Gothic doom,https://i.scdn.co/image/a2e132ff50489a2ee4ecafaac56517a5b371e8b0
+123,Slipknot,"USA-Alternative,Nu",https://i.scdn.co/image/a2e132ff50489a2ee4ecafaac56517a5b371e8b0
+124,AC/DC,"Australia-Hard rock,Blues rock",https://i.scdn.co/image/a2e132ff50489a2ee4ecafaac56517a5b371e8b0
+125,Ayreon,The Netherlands-Progressive,https://i.scdn.co/image/a2e132ff50489a2ee4ecafaac56517a5b371e8b0
+126,Swallow The Sun,"Finland-Melodic death,Melodic doom",https://i.scdn.co/image/a2e132ff50489a2ee4ecafaac56517a5b371e8b0
+127,Gamma Ray,Germany-Power,https://i.scdn.co/image/a2e132ff50489a2ee4ecafaac56517a5b371e8b0
+128,Rhapsody Of Fire,Italy-Symphonic power,https://i.scdn.co/image/a2e132ff50489a2ee4ecafaac56517a5b371e8b0
+129,Hypocrisy,"Sweden-Death,Melodic death,Gothenburg",https://i.scdn.co/image/a2e132ff50489a2ee4ecafaac56517a5b371e8b0
+130,Motörhead,"United Kingdom, USA-Heavy",https://i.scdn.co/image/a2e132ff50489a2ee4ecafaac56517a5b371e8b0
+131,Bloodbath,Sweden-Death,https://i.scdn.co/image/a2e132ff50489a2ee4ecafaac56517a5b371e8b0
+132,Korpiklaani,Finland-Folk,https://i.scdn.co/image/a2e132ff50489a2ee4ecafaac56517a5b371e8b0
+133,Manowar,"USA-Heavy,Us power",https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+134,HammerFall,Sweden-Power,https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+135,At The Gates,"Sweden-Melodic death,Gothenburg",https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+136,Sabaton,Sweden-Power,https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+137,Mayhem,"Norway-Death,Black",https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+138,Vader,Poland-Death,https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+139,Avantasia,Germany-Symphonic power,https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+140,Rotting Christ,"Greece-Black,Gothic",https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+141,Summoning,Austria-Atmospheric black,https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+142,Sodom,Germany-Teutonic thrash,https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+143,Overkill,USA-Thrash,https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+144,Dissection,"Sweden-Melodic death,Melodic black",https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+145,Satyricon,Norway-Black,https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+146,Rush,Canada-Progressive rock,https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+147,Darkthrone,"Norway-Death,Black,Crust punk ,Heavy",https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+148,Ozzy Osbourne,"United Kingdom, USA-Heavy",https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+149,Devin Townsend,"Canada-Industrial progressive,Progressive",https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+150,Alcest,"France-Black,Shoegaze",https://i.scdn.co/image/7d4819d557b6f4ef5455a8de7811992a3222375c
+151,Equilibrium,Germany-Viking folk,https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+152,Deep Purple,"United Kingdom-Heavy,Hard rock",https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+153,Edguy,Germany-Power,https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+154,Soilwork,Sweden-Gothenburg,https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+155,Riverside,Poland-Progressive,https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+156,Trivium,"USA-Metalcore,Alternative thrash",https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+157,Turisas,Finland-Folk,https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+158,Orphaned Land,"Israel-Progressive folk,Death,Folk",https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+159,Apocalyptica,Finland-Symphonic heavy,https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+160,King Diamond,"Denmark, USA-Heavy",https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+161,Angra,Brazil-Progressive power,https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+162,Deicide,USA-Death,https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+163,Alice In Chains,"USA-Grunge ,Heavy",https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+164,Haggard,"Germany-Experimental death,Symphonic",https://i.scdn.co/image/e8d80cfa2ff8906eb9f0b685e7c5aa6ac1039310
+165,Disturbed,"USA-Nu,Alternative",https://i.scdn.co/image/75d5dcca1305899f500f8d8796511f291a36fc59
+166,DragonForce,United Kingdom-Power,https://i.scdn.co/image/75d5dcca1305899f500f8d8796511f291a36fc59
+167,Lacuna Coil,"Italy-Gothic,Alternative",https://i.scdn.co/image/75d5dcca1305899f500f8d8796511f291a36fc59
+168,Accept,Germany-Heavy,https://i.scdn.co/image/75d5dcca1305899f500f8d8796511f291a36fc59
+169,Arcturus,"Norway-Avantgarde black,Avantgarde",https://i.scdn.co/image/75d5dcca1305899f500f8d8796511f291a36fc59
+170,Omnium Gatherum,Finland-Melodic death,https://i.scdn.co/image/75d5dcca1305899f500f8d8796511f291a36fc59
+171,Obituary,USA-Death,https://i.scdn.co/image/75d5dcca1305899f500f8d8796511f291a36fc59
+172,Pain Of Salvation,"Sweden-Progressive,Progressive rock",https://i.scdn.co/image/75d5dcca1305899f500f8d8796511f291a36fc59
+173,Necrophagist,Germany-Technical death,https://i.scdn.co/image/75d5dcca1305899f500f8d8796511f291a36fc59
+174,Fear Factory,"USA-Industrial,Death",https://i.scdn.co/image/34ce6c6c4fd523c5415886027f340505dafd1dc3
+175,Tristania,"Norway-Symphonic gothic,Gothic",https://i.scdn.co/image/34ce6c6c4fd523c5415886027f340505dafd1dc3
+176,Decapitated,Poland-Technical death,https://i.scdn.co/image/34ce6c6c4fd523c5415886027f340505dafd1dc3
+177,Fleshgod Apocalypse,Italy-Symphonic death,https://i.scdn.co/image/34ce6c6c4fd523c5415886027f340505dafd1dc3
+178,Primordial,"Ireland-Black,Celtic folk",https://i.scdn.co/image/34ce6c6c4fd523c5415886027f340505dafd1dc3
+179,Candlemass,Sweden-Epic doom,https://i.scdn.co/image/34ce6c6c4fd523c5415886027f340505dafd1dc3
+180,Scar Symmetry,"Sweden-Melodic death,Progressive power",https://i.scdn.co/image/34ce6c6c4fd523c5415886027f340505dafd1dc3
+181,Eternal Tears Of Sorrow,"Finland-Extreme power,Melodic death",https://i.scdn.co/image/34ce6c6c4fd523c5415886027f340505dafd1dc3
+182,Marduk,Sweden-Black,https://i.scdn.co/image/34ce6c6c4fd523c5415886027f340505dafd1dc3
+183,Annihilator,"Canada-Thrash,Heavy",https://i.scdn.co/image/34ce6c6c4fd523c5415886027f340505dafd1dc3
+184,Alestorm,"United Kingdom-Folk,Power",https://i.scdn.co/image/34ce6c6c4fd523c5415886027f340505dafd1dc3
+185,Ghost,"Sweden-Heavy,Psychedelic rock",https://i.scdn.co/image/d0ce107c77a59e6832a5ddd6121d1d3c5ec0b3ab
+186,Ulver,"Norway-Folk,Electronic,Avantgarde ,Black",https://i.scdn.co/image/d0ce107c77a59e6832a5ddd6121d1d3c5ec0b3ab
+187,Cynic,"USA-Progressive death,Progressive",https://i.scdn.co/image/d0ce107c77a59e6832a5ddd6121d1d3c5ec0b3ab
+188,Ne Obliviscaris,Australia-Extreme progressive,https://i.scdn.co/image/d0ce107c77a59e6832a5ddd6121d1d3c5ec0b3ab
+189,In Mourning,"Sweden-Gothic,Melodic death,Progressive",https://i.scdn.co/image/d0ce107c77a59e6832a5ddd6121d1d3c5ec0b3ab
+190,Obscura,"Germany-Progressive death,Technical death",https://i.scdn.co/image/d0ce107c77a59e6832a5ddd6121d1d3c5ec0b3ab
+191,Korn,"USA-Nu,Alternative",https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+192,Evergrey,"Sweden-Progressive,Power",https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+193,Týr,Faroe Islands-Folk,https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+194,Type O Negative,"USA-Gothic,Doom",https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+195,Mercyful Fate,"Denmark, USA-Heavy,First wave of black",https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+196,Saturnus,"Denmark-Death,Gothic doom",https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+197,Bolt Thrower,"United Kingdom-Death,Grindcore",https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+198,Scorpions,"Germany-Progressive rock,Hard rock,Heavy",https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+199,Napalm Death,"United Kingdom-Hardcore,Grindcore,Punk",https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+200,Windir,Norway-Viking black,https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+201,Sentenced,"Finland-Death,Suomi,Depressive heavy,Melodic death",https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+202,Tiamat,"Sweden-Death,Atmospheric gothic",https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+203,Killswitch Engage,USA-Melodic metalcore,https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37
+204,Gorgoroth,Norway-Black,https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+205,Celtic Frost,"Switzerland-First wave of black,Avantgarde,Thrash",https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+206,Rainbow,"United Kingdom-Hard rock,Heavy",https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+207,Suffocation,USA-Brutal death,https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+208,Kataklysm,Canada-Death,https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+209,Dying Fetus,"USA-Brutal death,Deathgrind,Technical death",https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+210,Norther,Finland-Extreme power,https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+211,Sirenia,Norway-Symphonic gothic,https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+212,Savatage,USA-Progressive heavy,https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+213,Empyrium,"Germany-Doom,Folk,Neofolk",https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+214,Guns N' Roses,USA-Hard rock,https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+215,Venom,"United Kingdom-First wave of black,Heavy",https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+216,Dark Funeral,Sweden-Black,https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+217,Avenged Sevenfold,"USA-Metalcore,Heavy,Alternative",https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+218,Destruction,Germany-Teutonic thrash,https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+219,Edge Of Sanity,Sweden-Progressive death,https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+220,After Forever,"The Netherlands-Symphonic gothic,Symphonic progressive",https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+221,Ihsahn,"Norway-Extreme progressive,Avantgarde",https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+222,Diablo Swing Orchestra,"Sweden-Avantgarde,Symphonic",https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+223,Arkona,Russia-Pagan folk,https://i.scdn.co/image/e3718869a04810002f39a5049569cdd9a0ba6cd1
+224,Leprous,Norway-Progressive,
+225,Between The Buried And Me,USA-Progressive metalcore,
+226,Death Angel,USA-Bay area thrash,
+227,W.A.S.P.,USA-Heavy,
+228,As I Lay Dying,USA-Melodic metalcore,
+229,Black Label Society,USA-Heavy,
+230,Borknagar,"Norway-Melodic black,Progressive black",
+231,Isis,"USA-Post-metal,Atmospheric sludge",
+232,Soulfly,"USA-Groove thrash,Nu",
+233,Atheist,USA-Technical death,
+234,DevilDriver,"USA-Nu,Melodic death,Groove thrash",
+235,Shining,"Sweden-Depressive black,Progressive black",
+236,Strapping Young Lad,"Canada-Industrial,Thrash",
+237,The Gathering,"The Netherlands-Doom,Death doom,Atmospheric gothic,Experimental rock",
+238,Anaal Nathrakh,"United Kingdom-Black,Grindcore",
+239,Ghost Brigade,"Finland-Post-metal,Alternative",
+240,Delain,The Netherlands-Symphonic,
+241,Watain,Sweden-Black,
+242,Saxon,"United Kingdom-New wave of british heavy,Heavy",
+243,Vektor,"USA-Technical thrash,Progressive thrash",
+244,Immolation,USA-Death,
+245,Firewind,"Greece-Power,Heavy",
+246,Mors Principium Est,Finland-Gothenburg,
+247,Samael,"Switzerland-Black,Electro industrial",
+248,Bullet For My Valentine,United Kingdom-Melodic metalcore,
+249,Entombed,"Sweden-Death,Death ',N',Roll",
+250,Steven Wilson,United Kingdom-Progressive rock,
+251,Xandria,"Germany-Gothic,Symphonic",
+252,Drudkh,"Ukraine-Atmospheric black,Pagan black",
+253,Animals As Leaders,"USA-Progressive,Instrumental,Djent",
+254,Queensrÿche,"USA-Heavy,Progressive heavy,Progressive rock",
+255,Powerwolf,Germany-Power,
+256,Belphegor,"Austria-Black,Death",
+257,Alice Cooper,"USA-Hard rock,Glam rock,New,Wave ,Heavy",
+258,Before The Dawn,"Finland-Gothic,Melodic death",
+259,The Faceless,"USA-Deathcore,Progressive death,Technical death",
+260,Deftones,"USA-Nu,Alternative",
+261,Primal Fear,Germany-Power,
+262,Theatre Of Tragedy,"Norway-Gothic,Gothic industrial",
+263,KISS,"USA-Hard rock,Symphonic rock,Glam,Heavy",
+264,Down,"USA-Heavy,Sludge,Stoner",
+265,Skeletonwitch,USA-Blackened thrash,
+266,Rage Against The Machine,"USA-Alternative,Nu",
+267,Wolves In The Throne Room,USA-Atmospheric black,
+268,Five Finger Death Punch,USA-Groove metal,
+269,Electric Wizard,"United Kingdom-Doom,Stoner",
+270,Nine Inch Nails,"USA-Industrial rock,Industrial",
+271,Novembers Doom,"USA-Death doom,Melodic death",
+272,Dethklok,USA-Melodic death,
+273,Faith No More,USA-Alternative,
+274,Cryptopsy,"Canada-Brutal death,Technical death,Death",
+275,Falkenbach,"Germany-Black,Viking folk,Folk",
+276,Graveworm,"Italy-Gothic,Symphonic black",
+277,Taake,Norway-Black,
+278,Grave Digger,Germany-Heavy,
+279,Rob Zombie,"USA-Alternative,Industrial",
+280,The Black Dahlia Murder,"USA-Melodic death,Metalcore",
+281,Running Wild,"Germany-Heavy,Speed",
+282,Neurosis,"USA-Atmospheric sludge,Post-hardcore ,Post-metal",
+283,Carach Angren,The Netherlands-Symphonic black,
+284,Dark Moor,Spain-Symphonic power,
+285,Baroness,"USA-Sludge,Stoner rock,Progressive rock",
+286,King Crimson,United Kingdom-Progressive rock,
+287,Shape Of Despair,Finland-Funeral doom,
+288,Bruce Dickinson,United Kingdom-Heavy,
+289,Demons And Wizards,"USA-Heavy,Power",
+290,Deathspell Omega,"France-Black,Avantgarde",
+291,Lacrimosa,"Germany-Gothic,Symphonic",
+292,Coroner,Switzerland-Technical thrash,
+293,Masterplan,Germany-Progressive power,
+294,Tarja,Finland-Symphonic,
+295,Ahab,Germany-Funeral doom,
+296,Melechesh,"Israel, The Netherlands-Melodic black,Folk",
+297,Rage,Germany-Heavy,
+298,Cult Of Luna,"Sweden-Post-metal,Sludge",
+299,Suidakra,"Germany-Melodic death,Folk",
+300,Yngwie Malmsteen,Sweden-Neoclassical power,
+301,Kyuss,"USA-Stoner,Stoner rock",
+302,All That Remains,USA-Melodic metalcore,
+303,Marilyn Manson,"USA-Industrial rock,Alternative,Industrial,Glam rock,Alternative rock",
+304,Sólstafir,"Iceland-Atmospheric black,Post-rock",
+305,Woods Of Ypres,"Canada-Melodic black,Doom,Gothic doom",
+306,Blut Aus Nord,"France-Atmospheric black,Industrial",
+307,Godsmack,"USA-Alternative,Hard rock",
+308,Haken,United Kingdom-Progressive,
+309,HIM,Finland-Suomi,
+310,Warbringer,USA-Thrash,
+311,Havok,USA-Thrash,
+312,Novembre,"Italy-Death doom,Extreme progressive",
+313,Evile,United Kingdom-Thrash,
+314,Six Feet Under,USA-Death,
+315,Leaves' Eyes,Germany-Atmospheric symphonic,
+316,Old Man's Child,"Norway-Thrash,Death,Symphonic black",
+317,Chimaira,USA-Groove thrash,
+318,Persefone,"Andorra-Melodic death,Progressive",
+319,Heaven Shall Burn,"Germany-Metalcore,Melodic death",
+320,Myrath,"Tunisia, France-Progressive,Oriental folk",
+321,Freedom Call,Germany-Power,
+322,Green Carnation,"Norway-Death,Gothic,Progressive",
+323,High On Fire,"USA-Stoner,Sludge",
+324,Metal Church,"USA-Heavy,Thrash",
+325,Sylosis,"United Kingdom-Melodic death,Progressive thrash",
+326,Danzig,USA-Hard rock,
+327,Elvenking,"Italy-Folk,Power",
+328,Triptykon,"Switzerland-Blackened thrash,Death",
+329,Volbeat,"Denmark-Heavy,Hard rock",
+330,The Haunted,"Sweden-Alternative thrash,Thrash,Melodic death",
+331,Carpathian Forest,Norway-Black,
+332,Van Halen,"USA-Hard rock,Heavy",
+333,Falconer,"Sweden-Folk,Power",
+334,Pain,Sweden-Gothic industrial,
+335,Unleashed,Sweden-Melodic death,
+336,Protest The Hero,"Canada-Metalcore,Progressive metalcore",
+337,Gorguts,"Canada-Death,Technical death,Avantgarde",
+338,Circus Maximus,Norway-Progressive,
+339,Aborted,"Belgium-Brutal death,Melodic death,Grindcore",
+340,Municipal Waste,USA-Crossover thrash,
+341,Virgin Black,"Australia-Gothic,Doom",
+342,Dismember,Sweden-Death,
+343,Joe Satriani,"USA-Hard rock,Rock,Instrumental",
+344,Barren Earth,"Finland-Melodic death,Progressive",
+345,Dream Evil,"Sweden-Heavy,Power",
+346,Krisiun,Brazil-Brutal death,
+347,Negur? Bunget,"Romania-Black,Folk",
+348,Uaral,"Chile-Doom,Neofolk",
+349,Amaranthe,"Sweden-Power,Industrial",
+350,Whitesnake,United Kingdom-Hard rock,
+351,Quo Vadis,Canada-Technical death,
+352,Mercenary,"Denmark-Melodic death,Thrash,Gothenburg,Heavy",
+353,Pestilence,"The Netherlands-Death,Progressive death,Technical death",
+354,The Agonist,"Canada-Metalcore,Melodic death",
+355,Cavalera Conspiracy,USA-Thrash,
+356,Mudvayne,"USA-Nu,Alternative",
+357,Origin,USA-Technical death,
+358,The Ocean,"Germany-Post-metal,Sludge,Hardcore",
+359,Vintersorg,"Sweden-Black,Progressive,Folk",
+360,Voivod,"Canada-Thrash,Progressive",
+361,Fates Warning,"USA-Us power,Progressive",
+362,Skid Row,"USA-Heavy,Hard rock",
+363,Unexpect,Canada-Extreme avantgarde,
+364,Vital Remains,USA-Death,
+365,Kvelertak,"Norway-Blackened hardcore,Punk",
+366,1349,Norway-Black,
+367,Mötley Crüe,"USA-Glam rock,Glam",
+368,Tankard,Germany-Thrash,
+369,Dragonland,Sweden-Symphonic power,
+370,Cattle Decapitation,"USA-Deathgrind,Goregrind",
+371,Revocation,"USA-Technical death,Thrash",
+372,Pagan's Mind,"Norway-Progressive,Power",
+373,Artillery,Denmark-Thrash,
+374,Shade Empire,Finland-Symphonic black,
+375,Arsis,"USA-Melodic death,Technical death",
+376,Autopsy,USA-Death,
+377,Dark Fortress,Germany-Black,
+378,Lake Of Tears,"Sweden-Gothic,Doom",
+379,Daylight Dies,"USA-Melodic death,Doom",
+380,Lost Horizon,Sweden-Power,
+381,TesseracT,"United Kingdom-Progressive math,Djent",
+382,Keep Of Kalessin,"Norway-Black,Melodic black,Progressive black",
+383,Toxic Holocaust,"USA-Blackened thrash,Crossover thrash",
+384,Possessed,"USA-Death,Thrash",
+385,3 Inches Of Blood,"Canada-Heavy,Power",
+386,Allegaeon,"USA-Technical death,Melodic death",
+387,Beyond Creation,"Canada-Technical death,Progressive death",
+388,Catamenia,"Finland-Melodic black,Melodic death,Heavy",
+389,Def Leppard,"United Kingdom-New wave of british heavy,Hard rock",
+390,Hatebreed,"USA-Hardcore,Metalcore",
+391,Heavenly,France-Power,
+392,Heidevolk,The Netherlands-Folk,
+393,Soundgarden,"USA-Grunge ,Stoner",
+394,Textures,The Netherlands-Progressive math,
+395,Sigh,"Japan-Death,Black,Avantgarde,Thrash",
+396,Antimatter,United Kingdom-Atmospheric rock,
+397,Clutch,"USA-Hard rock,Stoner rock",
+398,Crematory,"Germany-Death,Gothic",
+399,Gorod,France-Technical death,
+400,Les Discrets,"France-Black,Shoegaze",
+401,October Tide,Sweden-Death doom,
+402,Periphery,"USA-Progressive math,Djent",
+403,Seventh Wonder,Sweden-Progressive,
+404,Stone Sour,"USA-Hard rock,Alternative",
+405,Estatic Fear,Austria-Symphonic doom,
+406,Malevolent Creation,USA-Death,
+407,Esoteric,"United Kingdom-Psychedelic doom,Funeral doom",
+408,Hate Eternal,USA-Brutal death,
+409,The Foreshadowing,"Italy-Doom,Gothic",
+410,Atoma,"Sweden-Post-metal,Post-rock",
+411,Deathstars,Sweden-Industrial gothic,
+412,Luca Turilli's Rhapsody,Italy-Symphonic power,
+413,Iron Savior,Germany-Power,
+414,Asphyx,The Netherlands-Death,
+415,Control Denied,USA-Progressive,
+416,Job For A Cowboy,"USA-Deathcore,Death",
+417,Heaven And Hell,USA-Heavy,
+418,Thyrfing,Sweden-Viking black,
+419,Ministry,"USA-Industrial,Synth pop",
+420,Queens Of The Stone Age,"USA-Stoner,Stoner rock",
+421,Slumber,Sweden-Melodic doom,
+422,Threshold,United Kingdom-Progressive,
+423,Grave,Sweden-Death,
+424,Naglfar,Sweden-Melodic black,
+425,Benighted,"France-Brutal death,Blackened death,Grindcore",
+426,Lordi,"Finland-Hard rock,Glam",
+427,Alter Bridge,"USA-Hard rock,Rock",
+428,Doom:VS,Sweden-Funeral doom,
+429,Finsterforst,Germany-Pagan folk,
+430,Luca Turilli,Italy-Symphonic power,
+431,Shadows Fall,"USA-Modern thrash,Melodic death",
+432,Steve Vai,USA-Progressive rock,
+433,Twisted Sister,"USA-Hard rock,Glam",
+434,Suicidal Tendencies,"USA-Crossover thrash,Hardcore,Punk",
+435,Whitechapel,USA-Deathcore,
+436,Jeff Loomis,"USA-Progressive,Instrumental",
+437,Månegarm,"Sweden-Black,Viking folk",
+438,Van Canto,"Germany-Power,A,Cappella",
+439,Nuclear Assault,USA-Thrash,
+440,A Forest Of Stars,United Kingdom-Atmospheric black,
+441,All Shall Perish,USA-Deathcore,
+442,The Sword,"USA-Doom,Stoner",
+443,Caladan Brood,"USA-Atmospheric black,Folk",
+444,Galneryus,Japan-Power,
+445,Adagio,"France-Progressive,Symphonic power",
+446,Akercocke,"United Kingdom-Black,Death,Progressive death",
+447,Axel Rudi Pell,"Germany-Heavy,Power",
+448,Edenbridge,"Austria-Symphonic,Progressive,Power",
+449,Inquisition,"Colombia, USA-Black,Thrash",
+450,Chthonic,"Taiwan-Melodic black,Extreme power,Folk",
+451,Dark Angel,USA-Bay area thrash,
+452,Parkway Drive,Australia-Metalcore,
+453,Psycroptic,Australia-Technical death,
+454,Poisonblack,"Finland-Suomi,Depressive heavy",
+455,The Dillinger Escape Plan,"USA-Math,Metalcore",
+456,Deafheaven,"USA-Atmospheric black,Post-metal,Shoegaze",
+457,Rapture,"Finland-Melodic death,Doom",
+458,Kauan,"Russia-Folk,Doom,Black",
+459,Into Eternity,"Canada-Melodic death,Progressive",
+460,Thy Catafalque,"Hungary, United Kingdom-Avantgarde black",
+461,Enshine,#NAME?,
+462,Kylesa,USA-Sludge,
+463,Cain's Offering,Finland-Power,
+464,Cathedral,"United Kingdom-Doom,Stoner",
+465,Forbidden,USA-Bay area thrash,
+466,Spawn Of Possession,"Sweden-Brutal death,Technical death",
+467,Soen,"Sweden-Progressive,Alternative",
+468,Dalriada,Hungary-Folk,
+469,Evoken,"USA-Death,Funeral doom",
+470,Misery Index,USA-Deathgrind,
+471,August Burns Red,USA-Technical metalcore,
+472,Disarmonia Mundi,Italy-Gothenburg,
+473,In Vain,"Norway-Death,Progressive death",
+474,Jorn,Norway-Heavy,
+475,Absu,"USA-Death,Blackened thrash",
+476,Anorexia Nervosa,"France-Symphonic black,Industrial",
+477,Charon,"Finland-Suomi,Death",
+478,Suicide Silence,USA-Deathcore,
+479,Vomitory,Sweden-Death,
+480,Born Of Osiris,USA-Progressive deathcore,
+481,Sleep,USA-Stoner,
+482,Unearth,USA-Metalcore,
+483,Forest Of Shadows,"Sweden-Death doom,Atmospheric doom",
+484,Goatwhore,"USA-Blackened thrash,Blackened death",
+485,Noumena,Finland-Melodic death,
+486,Stream Of Passion,The Netherlands-Symphonic progressive,
+487,White Zombie,"USA-Noise rock,Alternative thrash,Industrial",
+488,Onslaught,United Kingdom-Thrash,
+489,Thin Lizzy,"Ireland-Hard rock,Heavy",
+490,Ulcerate,New Zealand-Technical death,
+491,Battlelore,"Finland-Folk,Power",
+492,Black Sun Aeon,"Finland-Melodic death,Doom",
+493,Lacrimas Profundere,"Germany-Doom,Gothic",
+494,Nocturnal Rites,Sweden-Power,
+495,Heathen,USA-Bay area thrash,
+496,Pelican,USA-Instrumental post-metal,
+497,Acid Bath,"USA-Doom,Sludge",
+498,Amberian Dawn,Finland-Symphonic power,
+499,Converge,"USA-Metalcore,Hardcore,Post-hardcore,Punk",
+500,Serenity,Austria-Symphonic power,
+501,Star One,The Netherlands-Progressive,
+502,Mar De Grises,Chile-Doom,
+503,Wolfheart,Finland-Melodic death,
+504,Darkspace,Switzerland-Ambient black,
+505,Legion Of The Damned,"The Netherlands-Thrash,Death",
+506,Liquid Tension Experiment,"USA-Progressive,Instrumental",
+507,Tarot,Finland-Power,
+508,The Sins Of Thy Beloved,Norway-Symphonic gothic,
+509,The Vision Bleak,Germany-Gothic,
+510,Fallujah,"USA-Progressive death,Technical deathcore",
+511,Witherscape,"Sweden-Atmospheric death,Extreme progressive",
+512,Einherjer,Norway-Viking folk,
+513,Primus,"USA-Alternative,Experimental rock",
+514,Sunn O))),"USA-Drone doom,Dark,Ambient",
+515,Airbourne,Australia-Hard rock,
+516,Decrepit Birth,"USA-Brutal death,Technical death",
+517,Grand Magus,"Sweden-Doom,Heavy",
+518,Uriah Heep,United Kingdom-Hard rock,
+519,Flotsam And Jetsam,USA-Thrash,
+520,Blotted Science,"USA-Progressive,Instrumental",
+521,Limbonic Art,"Norway-Symphonic black,Black",
+522,Shadow Gallery,USA-Progressive,
+523,Fen,"United Kingdom-Atmospheric black,Post-rock",
+524,Skyfire,Sweden-Extreme power,
+525,Corrosion Of Conformity,USA-Stoner,
+526,Vanden Plas,"Germany-Power,Progressive",
+527,Halford,United Kingdom-Heavy,
+528,In Extremo,Germany-Medieval folk,
+529,Mg?a,Poland-Black,
+530,Solution .45,Sweden-Melodic death,
+531,Whispered,Finland-Extreme power,
+532,Diamond Head,"United Kingdom-New wave of british heavy,Heavy",
+533,Hate,Poland-Death,
+534,God Dethroned,"The Netherlands-Death,Thrash",
+535,Vreid,Norway-Black,
+536,In The Silence,USA-Progressive,
+537,Static-X,"USA-Nu,Industrial,Alternative",
+538,Nachtmystium,"USA-Black,Psychedelic black",
+539,Royal Hunt,Denmark-Symphonic power,
+540,Xasthur,USA-Depressive black,
+541,Suicidal Angels,Greece-Thrash,
+542,Wolfchant,"Germany-Pagan folk,Melodic death",
+543,ReVamp,"The Netherlands-Symphonic,Progressive",
+544,Sadus,"USA-Death,Technical thrash",
+545,Blackfield,"Israel-Progressive rock,Avantgarde rock",
+546,Nightrage,"Greece, Sweden-Melodic death",
+547,The 69 Eyes,"Finland-Gothic,Glam rock,Gothic rock,Punk rock",
+548,Pyramaze,Denmark-Progressive power,
+549,Serj Tankian,"USA-Alternative,Hard rock",
+550,Gloryhammer,United Kingdom-Power,
+551,Hour Of Penance,Italy-Brutal death,
+552,Kalisia,France-Progressive death,
+553,Nargaroth,Germany-Black,
+554,Trail Of Tears,Norway-Gothic,
+555,Sanctuary,USA-Us power,
+556,Woods Of Desolation,Australia-Atmospheric black,
+557,Agathodaimon,"Germany-Symphonic black,Extreme gothic",
+558,Sinergy,"Sweden, Finland-Heavy,Power",
+559,Sonic Syndicate,"Sweden-Gothenburg,Metalcore",
+560,Wuthering Heights,"Denmark-Progressive power,Folk",
+561,I,Norway-Blackened heavy,
+562,Heavenwood,"Portugal-Death,Gothic,Gothic doom",
+563,Pig Destroyer,USA-Grindcore,
+564,Doro,"Germany-Hard rock,Heavy",
+565,Incantation,USA-Death,
+566,Virgin Steele,"USA-Heavy,Symphonic",
+567,Anvil,Canada-Heavy,
+568,Bal-Sagoth,"United Kingdom-Symphonic black,Power",
+569,Crowbar,USA-Sludge,
+570,Mourning Beloveth,Ireland-Death doom,
+571,Oranssi Pazuzu,Finland-Psychedelic black,
+572,Saor,"United Kingdom-Atmospheric black,Folk",
+573,Ancient Bards,Italy-Symphonic power,
+574,Dark Lunacy,"Italy-Melodic death,Symphonic",
+575,Fairyland,France-Symphonic power,
+576,Gama Bomb,Ireland-Thrash,
+577,In The Woods...,"Norway-Black,Avantgarde,Progressive",
+578,Leviathan,USA-Ambient black,
+579,Sybreed,"Switzerland-Groove thrash,Industrial",
+580,Spiritual Beggars,"Sweden-Heavy,Stoner",
+581,In This Moment,"USA-Melodic metalcore,Alternative",
+582,Saint Vitus,USA-Doom,
+583,U.D.O.,Germany-Heavy,
+584,Atreyu,"USA-Melodic metalcore,Alternative",
+585,Communic,Norway-Progressive,
+586,Godflesh,United Kingdom-Industrial,
+587,Nightingale,"Sweden-Gothic,Progressive",
+588,Anubis Gate,"Denmark-Progressive,Power",
+589,Deströyer 666,"Australia, United Kingdom-Blackened thrash",
+590,Europe,"Sweden-Heavy,Hard rock",
+591,Pentagram,USA-Doom,
+592,Zyklon,"Norway-Black,Death",
+593,Aeon,Sweden-Death,
+594,Orden Ogan,"Germany-Medieval folk,Power",
+595,Skyclad,United Kingdom-Folk,
+596,Stormlord,Italy-Symphonic black,
+597,X Japan,Japan-Power,
+598,Aquilus,"Australia-Atmospheric black,Symphonic black,Ambient",
+599,Hail Spirit Noir,"Greece-Blackened progressive,Psychedelic rock",
+600,Wine From Tears,Russia-Death doom,
+601,Amesoeurs,"France-Black,Shoegaze",
+602,Kampfar,"Norway-Black,Folk",
+603,Unisonic,"Germany-Melodic power,Hard rock",
+604,Visions Of Atlantis,Austria-Symphonic,
+605,Karnivool,"Australia-Alternative,Progressive",
+606,OSI,USA-Progressive,
+607,Ouroboros,"Australia-Technical death,Thrash",
+608,Russian Circles,USA-Post-metal,
+609,Vulture Industries,"Norway-Avantgarde,Progressive",
+610,Blue Öyster Cult,USA-Hard rock,
+611,Drowning Pool,USA-Alternative,
+612,Hellhammer,Switzerland-First wave of black,
+613,Benediction,United Kingdom-Death,
+614,Blood Red Throne,Norway-Death,
+615,Gwar,"USA-Alternative,Thrash,Hardcore,Punk",
+616,Illnath,Denmark-Symphonic black,
+617,Crimson Glory,USA-Progressive heavy,
+618,James LaBrie,Canada-Progressive,
+619,Witchcraft,Sweden-Stoner,
+620,Darkest Hour,"USA-Melodic death,Metalcore",
+621,Otep,"USA-Nu,Alternative",
+622,Red Fang,"USA-Stoner,Stoner rock",
+623,Sacred Reich,"USA-Speed,Thrash",
+624,Solefald,"Norway-Progressive black,Avantgarde",
+625,Solitude Aeturnus,USA-Doom,
+626,Cruachan,Ireland-Celtic folk,
+627,D.R.I.,"USA-Crossover thrash,Hardcore,Punk",
+628,Exhumed,USA-Deathgrind,
+629,Forefather,"United Kingdom-Folk,Black",
+630,The Ruins Of Beverast,"Germany-Black,Doom",
+631,Vision Divine,Italy-Power,
+632,Dokken,USA-Heavy,
+633,Hollenthon,"Austria-Symphonic,Melodic death",
+634,Mägo De Oz,"Spain-Heavy,Folk",
+635,Tribulation,"Sweden-Thrash,Death,Black",
+636,Battle Beast,Finland-Heavy,
+637,Bring Me The Horizon,"United Kingdom-Metalcore,Deathcore,Post-hardcore",
+638,Ex Deo,Canada-Symphonic death,
+639,Metsatöll,"Estonia-Heavy,Folk",
+640,Skepticism,Finland-Funeral doom,
+641,Dordeduh,Romania-Atmospheric black,
+642,Redemption,USA-Progressive,
+643,Scale The Summit,"USA-Progressive,Instrumental",
+644,Vildhjarta,"Sweden-Progressive math,Djent",
+645,Blood Stain Child,"Japan-Extreme power,Trancecore,Melodic death",
+646,Gorefest,"The Netherlands-Death,Hard rock",
+647,Intronaut,"USA-Post-metal,Atmospheric sludge",
+648,Monster Magnet,USA-Stoner,
+649,Sinister,The Netherlands-Death,
+650,Impaled Nazarene,"Finland-Black,Grindcore,Crust punk",
+651,Kiuas,Finland-Power,
+652,While Heaven Wept,"USA-Doom,Progressive power",
+653,Brymir,Finland-Extreme folk,
+654,Celesty,Finland-Power,
+655,Darkseed,Germany-Gothic,
+656,Die Apokalyptischen Reiter,"Germany-Death,Heavy",
+657,Gris,Canada-Depressive black,
+658,Orange Goblin,United Kingdom-Stoner,
+659,The Crown,"Sweden-Death,Thrash",
+660,Theocracy,USA-Progressive power,
+661,Violator,Brazil-Thrash,
+662,Mechina,USA-Industrial death,
+663,Necrophobic,Sweden-Death,
+664,Om,"USA-Stoner,Drone doom",
+665,Vesania,Poland-Symphonic black,
+666,Lifelover,"Sweden-Depressive black,Post-punk",
+667,The Kovenant,Norway-Industrial,
+668,Monstrosity,USA-Death,
+669,Persuader,"Sweden-Power,Heavy",
+670,Razor,Canada-Thrash,
+671,Svartsot,Denmark-Folk,
+672,Avatarium,Sweden-Doom,
+673,Caliban,Germany-Metalcore,
+674,Graveyard,"Sweden-Hard rock,Blues rock",
+675,Hail Of Bullets,The Netherlands-Death,
+676,Melvins,"USA-Sludge,Doom",
+677,Oomph!,"Germany-E,B,M ,Industrial,Industrial rock,Industrial",
+678,UnSun,Poland-Gothic,
+679,Vio-lence,USA-Thrash,
+680,Abbath,Norway-Black,
+681,Angelus Apatrida,Spain-Thrash,
+682,Blackmore's Night,United Kingdom-Folk rock,
+683,Labyrinth,Italy-Progressive power,
+684,Shining (NOR),"Norway-Jazz,Experimental,Jazz ,Avantgarde",
+685,Steel Panther,"USA-Glam,Hard rock",
+686,Toxik,USA-Technical thrash,
+687,Tsjuder,Norway-Black,
+688,Bilocate,"Jordan-Blackened death,Death doom,Extreme progressive",
+689,Brainstorm,Germany-Power,
+690,ColdWorld,Germany-Ambient black,
+691,Forgotten Tomb,"Italy-Doom,Black,Melodic black",
+692,Nasum,Sweden-Grindcore,
+693,Beherit,"Finland-Black,Ambient",
+694,Lord Belial,Sweden-Black,
+695,Marillion,United Kingdom-Progressive rock,
+696,Deadlock,"Germany-Alternative,Melodic metalcore,Melodic death",
+697,Dominia,"Russia-Symphonic death,Melodic death,Gothic",
+698,Lazarus A.D.,USA-Thrash,
+699,Midnattsol,"Norway-Folk,Gothic",
+700,Pathfinder,Poland-Symphonic power,
+701,Skyforger,"Latvia-Black,Folk",
+702,Thurisaz,"Belgium-Atmospheric black,Death doom",
+703,Altar Of Plagues,"Ireland-Black,Post-metal",
+704,Angel Witch,"United Kingdom-New wave of british heavy,Heavy",
+705,Cephalic Carnage,USA-Grindcore,
+706,Demon Hunter,USA-Metalcore,
+707,Neurotech,"Slovenia-Industrial,Symphonic",
+708,Thy Light,Brazil-Depressive black,
+709,Abigail Williams,"USA-Symphonic black,Metalcore,Atmospheric black",
+710,Aura Noir,"Norway-Black,Thrash",
+711,Enforcer,"Sweden-Heavy,Speed",
+712,Hell,"United Kingdom-New wave of british heavy,Heavy",
+713,Jesu,"United Kingdom-Drone,Shoegaze ,Post-metal",
+714,Obscure Sphinx,"Poland-Post-metal,Doom,Sludge",
+715,Prong,"USA-Thrash,Industrial",
+716,Earth,"USA-Drone doom,Psychedelic rock",
+717,Killing Joke,"United Kingdom-Industrial,Post-,Punk,Darkwave",
+718,Mr. Bungle,USA-Avantgarde,
+719,MyGrain,Finland-Gothenburg,
+720,October Falls,"Finland-Doom,Folk,Ambient black",
+721,Trees Of Eternity,Finland-Gothic doom,
+722,Wilderun,USA-Symphonic folk,
+723,Disillusion,"Germany-Extreme progressive,Progressive",
+724,Dreamtale,Finland-Power,
+725,Mushroomhead,"USA-Alternative,Industrial,Nu",
+726,Officium Triste,The Netherlands-Death doom,
+727,Rosetta,"USA-Post-metal,Sludge",
+728,Silencer,Sweden-Black,
+729,Trollfest,Norway-Folk,
+730,Varg,"Germany-Melodic black,Pagan folk",
+731,Angtoria,United Kingdom-Symphonic,
+732,Blackguard,"Canada-Gothic,Folk,Power",
+733,Dir En Grey,Japan-Alternative,
+734,Forest Stream,Russia-Doom,
+735,Morbid Saint,USA-Thrash,
+736,Terrorizer,"USA-Grindcore,Death",
+737,Threat Signal,Canada-Melodic death,
+738,Axxis,"Germany-Heavy,Power",
+739,Carnifex,USA-Deathcore,
+740,Eyehategod,"USA-Doom,Sludge",
+741,Riot V,"USA-Heavy,Hard rock",
+742,Stormwarrior,Germany-Power,
+743,Terra Tenebrosa,"Sweden-Avantgarde,Ambient",
+744,Theatres Des Vampires,"Italy-Symphonic black,Gothic",
+745,Witchery,Sweden-Thrash,
+746,Darkane,"Sweden-Death,Thrash",
+747,Diabolical Masquerade,Sweden-Avantgarde black,
+748,Gotthard,Switzerland-Hard rock,
+749,Isole,Sweden-Epic doom,
+750,Dan Swanö,Sweden-Extreme progressive,
+751,Deeds Of Flesh,USA-Brutal death,
+752,Thunderstone,"Finland-Power,Heavy",
+753,Warning,United Kingdom-Epic doom,
+754,Xerath,United Kingdom-Symphonic math,
+755,40 Watt Sun,United Kingdom-Doom,
+756,Allen/Lande,USA-Heavy,
+757,KMFDM,"Germany-Industrial,Dance",
+758,Savage Circus,Germany-Power,
+759,Beseech,Sweden-Gothic,
+760,King Of Asgard,Sweden-Viking black,
+761,Machinae Supremacy,Sweden-Power,
+762,Pallbearer,USA-Doom,
+763,Ratt,"USA-Glam,Hard rock",
+764,The Absence,USA-Melodic death,
+765,The Project Hate MCMXCIX,Sweden-Industrial death,
+766,Voyager,Australia-Symphonic progressive,
+767,Demolition Hammer,USA-Thrash,
+768,Entwine,Finland-Suomi,
+769,Kivimetsän Druidi,Finland-Symphonic folk,
+770,Mordab,Iran-Progressive death,
+771,Skálmöld,Iceland-Viking folk,
+772,Warmen,Finland-Progressive power,
+773,Agent Steel,"USA-Speed,Thrash",
+774,Anata,Sweden-Technical death,
+775,Andromeda,Sweden-Progressive,
+776,Brujeria,"Mexico-Grindcore,Death",
+777,Enthroned,Belgium-Black,
+778,Lantlôs,"Germany-Atmospheric black,Post-rock",
+779,Mnemic,"Denmark-Industrial,Nu",
+780,Penumbra,France-Symphonic gothic,
+781,Veil Of Maya,USA-Deathcore,
+782,Augury,Canada-Technical death,
+783,Austere,Australia-Depressive black,
+784,Northern Kings,Finland-Symphonic,
+785,Portal,Australia-Experimental death,
+786,Rata Blanca,"Argentina-Heavy,Hard rock,Power",
+787,To/Die/For,Finland-Suomi,
+788,UFO,"United Kingdom-Hard rock,Heavy",
+789,Fields Of The Nephilim,"United Kingdom-Gothic rock,Gothic,Death",
+790,Helevorn,Spain-Gothic doom,
+791,Lunatica,Switzerland-Symphonic power,
+792,Aenaon,Greece-Progressive black,
+793,At Vance,"Germany-Heavy,Power",
+794,Behexen,Finland-Black,
+795,Holy Grail,"USA-Heavy,Power",
+796,Zonaria,"Sweden-Power,Melodic death",
+797,Dark The Suns,Finland-Gothic,
+798,Funeral,"Norway-Funeral doom,Doom",
+799,Hellyeah,USA-Groove heavy,
+800,Jag Panzer,USA-Us power,
+801,Mournful Congregation,Australia-Funeral doom,
+802,Ragnarok,Norway-Black,
+803,Wodensthrone,United Kingdom-Atmospheric black,
+804,Yob,"USA-Doom,Stoner",
+805,An Autumn For Crippled Children,"The Netherlands-Atmospheric black,Post-rock,Shoegaze",
+806,Flowing Tears,Germany-Gothic,
+807,Helstar,"USA-Power,Speed,Thrash",
+808,Mezarkabul,"Turkey-Heavy,Thrash",
+809,The 3rd And The Mortal,"Norway-Atmospheric doom,Experimental doom,Jazz rock",
+810,Abigor,Austria-Black,
+811,Bonded By Blood,USA-Thrash,
+812,Sabbat,United Kingdom-Pagan thrash,
+813,Slash,"USA-Hard rock,Blues rock",
+814,Turmion Kätilöt,Finland-Industrial,
+815,Almah,"Brazil-Power,Heavy",
+816,Anciients,Canada-Progressive,
+817,Ark,"Norway-Heavy,Progressive",
+818,Blindead,"Poland-Progressive,Post-metal",
+819,Cobalt,USA-Black,
+820,Devourment,USA-Brutal death,
+821,Divine Heresy,USA-Death,
+822,Gehenna,Norway-Black,
+823,Grim Reaper,"United Kingdom-Heavy,New wave of british heavy",
+824,Iron Fire,"Denmark-Speed,Power,Heavy",
+825,Nervecell,"UAE-Hardcore,Death",
+826,Nortt,"Denmark-Funeral doom,Black",
+827,Versailles,"Japan-J rock,Power",
+828,Ancient Rites,Belgium-Viking black,
+829,Crimfall,Finland-Symphonic folk,
+830,Exumer,Germany-Thrash,
+831,Fractal Gates,France-Melodic death,
+832,Hirax,USA-Thrash,
+833,Lethian Dreams,France-Atmospheric doom,
+834,Mystic Prophecy,Germany-Power,
+835,Stam1na,"Finland-Alternative thrash,Progressive",
+836,Winterfylleth,"United Kingdom-Atmospheric black,Pagan black",
+837,Abysmal Dawn,USA-Death,
+838,Arkan,"France-Melodic death,Oriental folk",
+839,DGM,Italy-Progressive,
+840,Diabulus In Musica,Spain-Symphonic,
+841,Fair To Midland,"USA-Progressive,Alternative",
+842,God Forbid,"USA-Melodic thrash,Metalcore",
+843,In Solitude,Sweden-Heavy,
+844,Kittie,"Canada-Nu,Alternative",
+845,Marty Friedman,"USA-Neoclassical heavy,Progressive",
+846,Power Quest,United Kingdom-Power,
+847,Reverend Bizarre,Finland-Doom,
+848,SikTh,"United Kingdom-Math,Progressive metalcore",
+849,Skinless,USA-Brutal death,
+850,Stormtroopers Of Death,"USA-Crossover thrash,Hardcore,Punk",
+851,The Angelic Process,"USA-Drone,Ambient,Shoegaze",
+852,Urgehal,Norway-Black,
+853,Armored Saint,USA-Heavy,
+854,Brutal Truth,USA-Grindcore,
+855,For My Pain,Finland-Suomi,
+856,Madder Mortem,"Norway-Avantgarde,Gothic",
+857,Mirrorthrone,Switzerland-Avantgarde,
+858,Neuraxis,Canada-Technical death,
+859,Thrawsunblat,Canada-Blackened folk,
+860,Thulcandra,"Germany-Melodic black,Melodic death",
+861,Ajattara,Finland-Black,
+862,Aria,Russia-Heavy,
+863,Boris,"Japan-Drone doom,Psychedelic stoner",
+864,Despised Icon,Canada-Deathcore,
+865,Hibria,Brazil-Heavy,
+866,Imperanon,"Finland-Extreme power,Melodic death",
+867,Manilla Road,"USA-Heavy,Power",
+868,Shaman,Brazil-Progressive power,
+869,Vallenfyre,United Kingdom-Death,
+870,Alkaloid,Germany-Extreme progressive,
+871,Bloodbound,Sweden-Heavy,
+872,Caligula's Horse,"Australia-Alternative,Progressive",
+873,Damageplan,USA-Groove metal,
+874,Demonaz,Norway-Viking black,
+875,Ektomorf,"Hungary-Groove thrash,Hardcore",
+876,Elis,Liechtenstein-Gothic,
+877,Nocturnus AD,"USA-Atmospheric death,Technical death",
+878,Sarcófago,"Brazil-Black,Thrash,Death",
+879,Warrel Dane,"USA-Gothic,Gothic rock",
+880,Whiplash,USA-Thrash,
+881,Beneath The Massacre,"Canada-Brutal death,Technical death",
+882,Blaze Bayley,United Kingdom-Heavy,
+883,Bloodshot Dawn,United Kingdom-Melodic death,
+884,Colosseum,Finland-Funeral doom,
+885,Derdian,Italy-Symphonic power,
+886,Godgory,Sweden-Melodic death,
+887,Halestorm,USA-Hard rock,
+888,Process Of Guilt,"Portugal-Doom,Atmospheric sludge",
+889,Warlock,Germany-Heavy,
+890,Lumsk,Norway-Viking folk,
+891,MaYaN,The Netherlands-Melodic death,
+892,Morgoth,"Germany-Death,Industrial",
+893,Paradox,Germany-Thrash,
+894,Rebellion,"Germany-Heavy,Power",
+895,Ufomammut,"Italy-Doom,Stoner",
+896,As Blood Runs Black,USA-Deathcore,
+897,Astral Doors,Sweden-Heavy,
+898,Babymetal,"Japan-J-,Pop,Melodic death",
+899,Demilich,Finland-Progressive death,
+900,Exhorder,"USA-Thrash,Groove thrash",
+901,Hatesphere,"Denmark-Death,Thrash",
+902,Iron Mask,Belgium-Power,
+903,Martyr,Canada-Technical death,
+904,Mistur,"Norway-Black,Viking folk",
+905,Raintime,"Italy-Progressive,Extreme power",
+906,Sevendust,"USA-Nu,Alternative",
+907,Amaseffer,"Israel-Progressive,Oriental folk",
+908,Ancient,Norway-Melodic black,
+909,Darkwater,Sweden-Melodic progressive,
+910,Dornenreich,"Austria-Melodic black,Acoustic rock,Ambient",
+911,Opera IX,"Italy-Symphonic black,Black,Folk",
+912,Trouble,"USA-Doom,Psychedelic doom",
+913,Andre Matos,Brazil-Power,
+914,Conception,"Norway-Thrash,Progressive,Power",
+915,Diablo,"Finland-Melodic death,Progressive,Groove thrash",
+916,Illdisposed,Denmark-Death,
+917,Rotten Sound,Finland-Grindcore,
+918,WarCry,Spain-Power,
+919,Winds Of Plague,"USA-Deathcore,Symphonic",
+920,Bethlehem,"Germany-Black,Gothic rock",
+921,Civil War,"Sweden-Heavy,Power",
+922,Darzamat,"Poland-Symphonic black,Gothic",
+923,Freak Kitchen,"Sweden-Melodic hard rock,Progressive hard rock",
+924,Krypteria,Germany-Symphonic gothic,
+925,Nemesea,"The Netherlands-Symphonic gothic,Gothic rock",
+926,Pretty Maids,Denmark-Heavy,
+927,Psychotic Waltz,USA-Progressive,
+928,Satan,"United Kingdom-New wave of british heavy,Thrash,Heavy",
+929,Astarte,Greece-Black,
+930,Beyond Twilight,Denmark-Progressive,
+931,Cinderella,USA-Glam,
+932,Coal Chamber,USA-Nu,
+933,Cor Scorpii,Norway-Black,
+934,Cormorant,"USA-Melodic death,Progressive",
+935,Cult Of Fire,Czech Republic-Black,
+936,Dew-Scented,"Germany-Death,Thrash",
+937,Nocturnal Depression,France-Depressive black,
+938,The Cult,"United Kingdom-Heavy,Hard rock,Gothic rock",
+939,The Fall Of Every Season,Norway-Atmospheric doom,
+940,Tierra Santa,"Spain-Heavy,Power",
+941,After The Burial,"USA-Progressive deathcore,Metalcore",
+942,Secrets Of The Moon,Germany-Black,
+943,Thy Art Is Murder,Australia-Technical deathcore,
+944,Arckanum,Sweden-Black,
+945,Elysion,Greece-Symphonic gothic,
+946,Ereb Altor,"Sweden-Doom,Pagan black",
+947,Jason Becker,"USA-Neoclassical heavy,Progressive",
+948,Jungle Rot,USA-Death,
+949,Remembrance,"France-Funeral doom,Death doom",
+950,To-Mera,United Kingdom-Symphonic progressive,
+951,Wolverine,"Sweden-Melodic death,Progressive",
+952,Batushka,"Poland-Black,Doom",
+953,Black Tide,USA-Heavy,
+954,Bucovina,Romania-Folk,
+955,Gary Moore,"Ireland-Hard rock,Blues rock,Heavy",
+956,Myrkgrav,"Norway, Finland-Black,Folk",
+957,Newsted,USA-Heavy,
+958,Panopticon,USA-Atmospheric black,
+959,Savage Messiah,United Kingdom-Thrash,
+960,Sear Bliss,Hungary-Black,
+961,Wizard,Germany-Power,
+962,Amiensus,"USA-Melodic black,Progressive",
+963,Brain Drill,"USA-Technical death,Grindcore",
+964,Cacophony,"USA-Neoclassical power,Progressive",
+965,Desire,Portugal-Doom,
+966,Hacride,"France-Progressive death,Alternative,Progressive",
+967,Horna,Finland-Black,
+968,Ill Niño,USA-Nu,
+969,Killer Be Killed,USA-Groove metal,
+970,Massacre,USA-Death,
+971,Mekong Delta,Germany-Progressive thrash,
+972,Royal Thunder,"USA-Heavy,Stoner",
+973,Symfonia,Finland-Power,
+974,The Monolith Deathcult,"The Netherlands-Death,Atmospheric death,Brutal death",
+975,Throes Of Dawn,"Finland-Extreme symphonic,Gothic",
+976,Adrenaline Mob,USA-Heavy,
+977,Black Crown Initiate,USA-Progressive death,
+978,Defeated Sanity,Germany-Brutal death,
+979,Desaster,Germany-Blackened thrash,
+980,Falloch,"United Kingdom-Folk,Post-,Rock",
+981,Loudness,"Japan-Hard rock,Heavy",
+982,Subrosa,USA-Sludge,
+983,Swashbuckle,USA-Thrash,
+984,The Human Abstract,USA-Progressive metalcore,
+985,XIV Dark Centuries,Germany-Viking folk,
+986,Year Of No Light,France-Atmospheric sludge,
+987,Angel Dust,"Germany-Thrash,Power",
+988,Battlecross,"USA-Melodic death,Thrash",
+989,Cannabis Corpse,USA-Death,
+990,Clouds,#NAME?,
+991,Dagoba,"France-Industrial thrash,Groove thrash",
+992,God Seed,Norway-Black,
+993,Heathen Foray,"Austria-Viking folk,Pagan folk",
+994,Midnight Odyssey,"Australia-Atmospheric black,Ambient black",
+995,Powerglove,USA-Instrumental power,
+996,Racer X,USA-Heavy,
+997,Slough Feg,USA-Heavy,
+998,Thorns,Norway-Industrial black,
+999,Tuatha De Danann,Brazil-Celtic folk,
+1000,White Wizzard,USA-Heavy,
